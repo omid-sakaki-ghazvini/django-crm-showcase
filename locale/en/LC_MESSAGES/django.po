@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CRM Showcase 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-04 20:50+0000\n"
+"PO-Revision-Date: 2026-10-04 20:50+0000\n"
+"Last-Translator: Omid Sakaki Ghazvini <omid@example.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ============================================================
+# Models — Customer
+# ============================================================
+
+msgid "نام"
+msgstr "First Name"
+
+msgid "نام خانوادگی"
+msgstr "Last Name"
+
+msgid "ایمیل"
+msgstr "Email"
+
+msgid "شماره تماس"
+msgstr "Phone Number"
+
+msgid "آدرس"
+msgstr "Address"
+
+msgid "شهر"
+msgstr "City"
+
+msgid "کشور"
+msgstr "Country"
+
+msgid "شرکت"
+msgstr "Company"
+
+msgid "وضعیت"
+msgstr "Status"
+
+msgid "فعال"
+msgstr "Active"
+
+msgid "غیرفعال"
+msgstr "Inactive"
+
+msgid "ویژه"
+msgstr "VIP"
+
+msgid "یادداشت"
+msgstr "Notes"
+
+msgid "تاریخ ایجاد"
+msgstr "Created At"
+
+msgid "آخرین ویرایش"
+msgstr "Updated At"
+
+msgid "مشتری"
+msgstr "Customer"
+
+msgid "مشتریان"
+msgstr "Customers"
+
+# ============================================================
+# Models — Lead
+# ============================================================
+
+msgid "سرنخ"
+msgstr "Lead"
+
+msgid "سرنخ‌ها"
+msgstr "Leads"
+
+msgid "منبع"
+msgstr "Source"
+
+msgid "وب‌سایت"
+msgstr "Website"
+
+msgid "معرفی"
+msgstr "Referral"
+
+msgid "شبکه‌های اجتماعی"
+msgstr "Social Media"
+
+msgid "تماس تلفنی"
+msgstr "Phone Call"
+
+msgid "سایر"
+msgstr "Other"
+
+msgid "جدید"
+msgstr "New"
+
+msgid "تماس گرفته شده"
+msgstr "Contacted"
+
+msgid "واجد شرایط"
+msgstr "Qualified"
+
+msgid "تبدیل شده"
+msgstr "Converted"
+
+msgid "از دست رفته"
+msgstr "Lost"
+
+msgid "مشتری تبدیل‌شده"
+msgstr "Converted Customer"
+
+# ============================================================
+# Models — Deal
+# ============================================================
+
+msgid "معامله"
+msgstr "Deal"
+
+msgid "معاملات"
+msgstr "Deals"
+
+msgid "عنوان"
+msgstr "Title"
+
+msgid "مبلغ (ریال)"
+msgstr "Amount (IRR)"
+
+msgid "مرحله"
+msgstr "Stage"
+
+msgid "بررسی اولیه"
+msgstr "Prospecting"
+
+msgid "ارائه پیشنهاد"
+msgstr "Proposal"
+
+msgid "مذاکره"
+msgstr "Negotiation"
+
+msgid "برنده شده"
+msgstr "Won"
+
+msgid "احتمال موفقیت (%)"
+msgstr "Probability (%)"
+
+msgid "مقدار بین ۰ تا ۱۰۰"
+msgstr "Value between 0 and 100"
+
+msgid "تاریخ پیش‌بینی بسته شدن"
+msgstr "Expected Close Date"
+
+# ============================================================
+# Models — Ticket
+# ============================================================
+
+msgid "تیکت"
+msgstr "Ticket"
+
+msgid "تیکت‌ها"
+msgstr "Tickets"
+
+msgid "موضوع"
+msgstr "Subject"
+
+msgid "توضیحات"
+msgstr "Description"
+
+msgid "اولویت"
+msgstr "Priority"
+
+msgid "کم"
+msgstr "Low"
+
+msgid "متوسط"
+msgstr "Medium"
+
+msgid "بالا"
+msgstr "High"
+
+msgid "فوری"
+msgstr "Urgent"
+
+msgid "باز"
+msgstr "Open"
+
+msgid "در حال بررسی"
+msgstr "In Progress"
+
+msgid "حل شده"
+msgstr "Resolved"
+
+msgid "بسته شده"
+msgstr "Closed"
+
+msgid "تاریخ حل"
+msgstr "Resolved At"
+
+# ============================================================
+# Models — Note
+# ============================================================
+
+msgid "یادداشت‌ها"
+msgstr "Notes"
+
+msgid "محتوا"
+msgstr "Content"
+
+# ============================================================
+# Models — Activity
+# ============================================================
+
+msgid "فعالیت"
+msgstr "Activity"
+
+msgid "فعالیت‌ها"
+msgstr "Activities"
+
+msgid "نوع فعالیت"
+msgstr "Activity Type"
+
+msgid "جلسه"
+msgstr "Meeting"
+
+msgid "وظیفه"
+msgstr "Task"
+
+msgid "تاریخ سررسید"
+msgstr "Due Date"
+
+msgid "انجام شده"
+msgstr "Done"
+
+# ============================================================
+# Home Page
+# ============================================================
+
+msgid "سامانه مدیریت مشتریان"
+msgstr "Customer Management System"
+
+msgid "پنل مدیریت"
+msgstr "Admin Panel"
+
+msgid "API رابط برنامه‌نویسی"
+msgstr "REST API"
+
+msgid "آماده‌ی Docker"
+msgstr "Docker Ready"
+
+msgid "ورود به پنل"
+msgstr "Enter Panel"
+
+msgid "تست API"
+msgstr "Test API"
+
+msgid "تکنولوژی‌های استفاده‌شده"
+msgstr "Tech Stack"
+
+msgid "ساخته‌شده توسط"
+msgstr "Built by"
+
+msgid "امید ساکی قزوینی"
+msgstr "Omid Sakaki Ghazvini"
+
+msgid "معمار هوش مصنوعی | مهندس ارشد یادگیری ماشین"
+msgstr "AI Architect | Senior Machine Learning Engineer"
+
+msgid ""
+"یک سامانه CRM آماده‌ی تولید، ساخته‌شده با Django و Django REST Framework، "
+"کاملاً داکرایز شده با Docker."
+msgstr ""
+"A production-ready CRM system built with Django and Django REST Framework, "
+"fully containerized with Docker."
+
+msgid "مدیریت کامل مشتریان، سفارش‌ها و تیکت‌های پشتیبانی با یک رابط کاربری مدرن."
+msgstr "Full customer, order, and support ticket management with a modern UI."
+
+msgid "API تمیز و قابل مرور با عملیات کامل ایجاد، خواندن، ویرایش و حذف."
+msgstr "Clean, browsable API with full Create, Read, Update, Delete operations."
+
+msgid "راه‌اندازی با یک دستور، در هر محیطی، به‌صورت کاملاً یکسان."
+msgstr "One-command setup, identical in any environment."
+
+# ============================================================
+# Admin Panel
+# ============================================================
+
+msgid "پنل مدیریت CRM"
+msgstr "CRM Admin Panel"
+
+msgid "به سامانه CRM خوش آمدید"
+msgstr "Welcome to CRM System"
+
+# ============================================================
+# DRF API — Docstrings
+# ============================================================
+
+msgid "لیست تمام مشتریان یا ایجاد مشتری جدید."
+msgstr "List all customers or create a new one."
+
+msgid "دریافت، ویرایش یا حذف یک مشتری خاص."
+msgstr "Retrieve, update, or delete a specific customer."
